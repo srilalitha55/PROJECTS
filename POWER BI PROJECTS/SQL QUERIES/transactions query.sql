@@ -1,0 +1,1 @@
+SELECT * FROM sales.transactions limit 5;
