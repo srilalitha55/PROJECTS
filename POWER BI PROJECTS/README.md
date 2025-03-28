@@ -1,5 +1,6 @@
 
 Sales Insights of Altiq Hardware using Power BI
+
 🔹 Objective: Designed an interactive sales insights dashboard to enhance visibility into sales performance and optimize decision-making.
 
 🔹 Key Features:
@@ -15,6 +16,7 @@ Order processing efficiency and fulfillment rate tracking
 Dynamic filters for region-wise and category-wise analysis
 
 2️⃣ Analyzing FIFA Women’s World Cup Data (1991-2019) using Power BI
+
 🔹 Objective: Created a comprehensive dashboard to explore trends and key metrics from FIFA Women’s World Cup tournaments.
 
 🔹 Key Features:
