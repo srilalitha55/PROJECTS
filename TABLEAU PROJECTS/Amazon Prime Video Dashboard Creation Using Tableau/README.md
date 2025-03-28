@@ -1,1 +1,1 @@
-
+"Designed an interactive Tableau dashboard to analyze Amazon Prime Video's content library, covering movies and TV shows. The dashboard includes key insights such as content breakdown by type, top-rated titles, genre distribution, release year trends, country-wise content availability, and duration analysis. Implemented dynamic filters for deeper exploration, enabling data-driven insights into the streaming platform's catalog."
