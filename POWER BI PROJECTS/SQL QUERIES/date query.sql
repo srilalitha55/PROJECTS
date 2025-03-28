@@ -1,1 +1,0 @@
-select distinct product_code from sales.transactions where market_code="mark001";
