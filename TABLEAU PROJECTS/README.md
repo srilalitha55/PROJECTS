@@ -4,6 +4,7 @@ This repository showcases my Tableau projects, where I have applied data visuali
 1️⃣ Amazon Prime Video Dashboard Creation using Tableau
 
 🔹 Objective: Analyzed Amazon Prime Video’s content library to provide key insights into its catalog.
+
 🔹 Key Features:
    * Content breakdown by type (Movies vs. TV Shows)
    * Top-rated titles and genre distribution
@@ -15,6 +16,7 @@ This repository showcases my Tableau projects, where I have applied data visuali
 2️⃣ HR Dashboard Creation for Awesome Chocolates Company using Tableau
 
 🔹 Objective: Developed an interactive HR dashboard to visualize workforce metrics for data-driven decision-making.
+
 🔹 Key Features:
    * Employee distribution across job roles
    * Gender balance and age distribution analysis
