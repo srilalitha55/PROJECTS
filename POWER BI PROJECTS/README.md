@@ -5,15 +5,15 @@
 
 🔹 Key Features:
 
-Sales performance analysis across multiple branch offices
+    Sales performance analysis across multiple branch offices
 
-Revenue trends and top-selling products identification
+    Revenue trends and top-selling products identification
 
-Customer segmentation and purchase behavior insights
+    Customer segmentation and purchase behavior insights
 
-Order processing efficiency and fulfillment rate tracking
+    Order processing efficiency and fulfillment rate tracking
 
-Dynamic filters for region-wise and category-wise analysis
+    Dynamic filters for region-wise and category-wise analysis
 
 2️⃣ Analyzing FIFA Women’s World Cup Data (1991-2019) using Power BI
 
@@ -21,13 +21,13 @@ Dynamic filters for region-wise and category-wise analysis
 
 🔹 Key Features:
 
-Total matches played, total goals scored, and penalty statistics
+     Total matches played, total goals scored, and penalty statistics
 
-Country-wise participation and historical performance trends
+     Country-wise participation and historical performance trends
 
-Player analysis including average age and top goal scorers
+     Player analysis including average age and top goal scorers
 
-Tournament winners, runners-up, and top-performing teams
+     Tournament winners, runners-up, and top-performing teams
 
-Yellow/red card distribution and fair play analysis
+     Yellow/red card distribution and fair play analysis
 
