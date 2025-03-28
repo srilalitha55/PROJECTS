@@ -1,8 +1,6 @@
 Krishna Chocolates Company Monthly Sales Dashboard Creation using Excel
 
-🔹 Objective: Designed an interactive Excel dashboard to analyze Krishna Chocolates Company's monthly sales, tracking key performance  
-    
-    metrics for business insights.
+🔹 Objective: Designed an interactive Excel dashboard to analyze Krishna Chocolates Company's monthly sales, tracking key performance metrics for business insights.
 
 Key Insights & Features:
 
