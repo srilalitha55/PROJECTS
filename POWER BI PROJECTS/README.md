@@ -1,5 +1,5 @@
 
-Sales Insights of Altiq Hardware using Power BI
+1️⃣ Sales Insights of Altiq Hardware using Power BI
 
 🔹 Objective: Designed an interactive sales insights dashboard to enhance visibility into sales performance and optimize decision-making.
 
