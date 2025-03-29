@@ -1,7 +1,7 @@
 Vrinda Store Annual Report 2022 using Excel
 
-🔹 Objective: Designed an interactive Excel dashboard to analyze Vrinda Store’s annual performance, tracking sales, orders, and customer trends across various 
-   categories and channels.
+Objective: Designed an interactive Excel dashboard to analyze Vrinda Store’s annual performance, tracking sales, orders, and customer trends across various 
+categories and channels.
 
 Key Insights & Features:
 
