@@ -1,6 +1,6 @@
 COVID-19 Dataset Analysis using R Programming
 
-🔹 Objective: Conducted an in-depth analysis of the COVID-19 dataset using R to uncover key trends and insights related to the pandemic.
+Objective: Conducted an in-depth analysis of the COVID-19 dataset using R to uncover key trends and insights related to the pandemic.
 
 Key Features & Insights:
 
