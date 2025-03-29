@@ -1,6 +1,6 @@
 Tic Tac Toe GUI Development using Python
 
-🔹 Objective: Developed an interactive Tic Tac Toe game using Python and Tkinter, allowing two players to play in a graphical interface.
+Objective: Developed an interactive Tic Tac Toe game using Python and Tkinter, allowing two players to play in a graphical interface.
 
 Key Features & Insights:
 
