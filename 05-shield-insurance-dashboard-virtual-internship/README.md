@@ -1,4 +1,4 @@
-# 📊 Shield Insurance Dashboard Virtual Internship
+# 📊 Shield Insurance Business Performance Dashboard Virtual Internship
 
 ## 🧾 Project Overview  
 This project focuses on designing and developing an **interactive business dashboard** for Shield Insurance to monitor key performance metrics and support strategic decision-making.
