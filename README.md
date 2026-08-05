@@ -16,7 +16,7 @@ Each project and internship is built around a real-world business problem and fo
 
 ## 🚀 Projects 
 
-### 1️⃣ AtliQ Mart Supply Chain Performance  
+### 1️⃣ AtliQ Mart Supply Chain Performance  Analysis
 🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/01-atliq-mart-supply-chain-performance  
 
 - **Domain:** FMCG (Fast-Moving Consumer Goods)  
