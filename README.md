@@ -27,7 +27,7 @@ Each project and internship is built around a real-world business problem and fo
 
 ---
 
-### 2️⃣ AtliQ Grands Revenue Optimization  
+### 2️⃣ AtliQ Grands Revenue Optimization Analysis 
 🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/02-atliq-grands-revenue-optimization  
 
 - **Domain:** Hospitality  
@@ -38,8 +38,8 @@ Each project and internship is built around a real-world business problem and fo
 
 ---
 
-### 3️⃣ Mitron Bank Credit Card Strategy  
-🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/03-mitron-bank-credit-card-strategy  
+### 3️⃣ Mitron Bank Credit Card Strategy Analysis 
+🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/03-mitron-bank-credit-card-strategy-analysis
 
 - **Domain:** Banking  
 - **Function:** Strategy, Revenue  
@@ -49,7 +49,7 @@ Each project and internship is built around a real-world business problem and fo
 
 ---
 
-### 4️⃣ CodeX Energy Drink Consumer Insights  
+### 4️⃣ CodeX Energy Drink Consumer Insights Analysis
 🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/04-codex-energy-drink-consumer-insights  
 
 - **Domain:** Food & Beverages (F&B)  
