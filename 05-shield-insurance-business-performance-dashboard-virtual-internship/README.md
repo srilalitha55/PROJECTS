@@ -59,7 +59,7 @@ The dashboard is built using well-defined DAX measures, including:
 ## 📸 Dashboard Preview  
 
 ### 🟢 Shield Insurance - Executive Overview 
-![Shield Insurance Executive Overview](./01-shield-insurance-executive-overview.png)
+![Shield Insurance Business Performance Dashboard Executive Overview](./01-shield-insurance-business-performance-dashboard-executive-overview.png)
 
 ---
 
