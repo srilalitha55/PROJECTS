@@ -62,7 +62,7 @@ Each project and internship is built around a real-world business problem and fo
 
 ## 💼 Virtual Internships
 
-### 5️⃣ Shield Insurance Dashboard (Virtual Internship)  
+### 5️⃣ Shield Insurance Business Performance Dashboard  
 🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/05-shield-insurance-dashboard-virtual-internship  
 
 - **Domain:** Insurance  
@@ -73,7 +73,7 @@ Each project and internship is built around a real-world business problem and fo
 
 ---
 
-### 6️⃣ Tech Instagram Influencer Analysis (Virtual Internship)  
+### 6️⃣ Tech Instagram Influencer Analysis  
 🔗 https://github.com/srilalitha55/business-analyst-portfolio/tree/main/06-tech-instagram-influencer-analysis-virtual-internship  
 
 - **Domain:** Social Media Analytics  
