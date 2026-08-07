@@ -52,17 +52,17 @@ Reach Analysis Output
 
 📂 All SQL Queries
 
-👉 View Full SQL Queries
+👉 [https://github.com/srilalitha55/business-analyst-portfolio/tree/main/06-tech-instagram-influencer-analysis-virtual-internship/01-queries]
 
 
 📊 All Query Outputs
 
-👉 View All Outputs
+👉 [https://github.com/srilalitha55/business-analyst-portfolio/tree/main/06-tech-instagram-influencer-analysis-virtual-internship/02-outputs]
 
 
 🎥 Project Presentation
 
-👉 Watch Presentation
+👉 [https://drive.google.com/drive/u/1/folders/1pL6WPmYcQxizgHNhI6tLg__NyFSDuFpW]
 
 🛠 Tools Used
 SQL - MySQL Workbench
