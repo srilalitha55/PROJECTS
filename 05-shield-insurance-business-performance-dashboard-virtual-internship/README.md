@@ -58,18 +58,18 @@ The dashboard is built using well-defined DAX measures, including:
 
 ## 📸 Dashboard Preview  
 
-### 🟢 Shield Insurance - Executive Overview 
+### 🟢 Shield Insurance Business Performance Dashbaord - Executive Overview 
 ![Shield Insurance Business Performance Dashboard Executive Overview](https://github.com/srilalitha55/business-analyst-portfolio/blob/main/05-shield-insurance-business-performance-dashboard-virtual-internship/01-shield-insurance-executive-business-performance-dashboard-overview.png)
 
 ---
 
-### 🔵 Shield Insurance - Sales Mode Analysis 
-![Shield Insurance Sales Mode Analysis](./02-shield-insurance-sales-mode-analysis.png)
+### 🔵 Shield Insurance Business Performance Dashbaord - Sales Mode Analysis 
+![Shield Insurance Business Performance Dashbaord Sales Mode Analysis](https://github.com/srilalitha55/business-analyst-portfolio/blob/main/05-shield-insurance-business-performance-dashboard-virtual-internship/02-shield-insurance-business-performance-dashboard-sales-mode-analysis.png)
 
 ---
 
-### 🟣 Shield Insurance - Age Group Analysis 
-![Shield Insurance Age Group Analysis](./03-shield-insurance-age-group-analysis.png)
+### 🟣 Shield Insurance Business Performance Dashbaord - Age Group Analysis 
+![Shield Insurance Business Performance Dashbaord Age Group Analysis](https://github.com/srilalitha55/business-analyst-portfolio/blob/main/05-shield-insurance-business-performance-dashboard-virtual-internship/03-shield-insurance-business-performance-dashboard-age-group-analysis.png)
 
 ---
 
