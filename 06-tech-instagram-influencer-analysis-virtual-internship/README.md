@@ -1,4 +1,4 @@
-# 📊 Tech Instagram Influencer Analysis Virtual Internship
+# 📊 Tech Instagram Influencer Analysis 
 
 ## 🧾 Project Overview
 Analyzed Instagram influencer data using SQL to identify content performance trends, audience engagement patterns, and growth opportunities.
