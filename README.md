@@ -1,13 +1,13 @@
  # 📊 Business Analyst Portfolio
 
-🎯 Aspiring Business Analyst | Portfolio of 4 Projects + 2 Virtual Internships  
+🎯 Aspiring Business Analyst | Portfolio of 5 Projects + 2 Virtual Internships  
 
 🚀 Transforming data into actionable business insights through real-world projects and virtual internships  
 
 ---
 
 ## 🧾 Overview
-Welcome to my Business Analyst portfolio. This repository showcases **4 end-to-end projects and 2 virtual internships** demonstrating my skills in data analysis, visualization, and business problem-solving using tools like Power BI, SQL, Excel, and DAX.
+Welcome to my Business Analyst portfolio. This repository showcases **5 end-to-end projects and 2 virtual internships** demonstrating my skills in data analysis, visualization, and business problem-solving using tools like Power BI, SQL, Excel, and DAX.
 
 Each project and internship is built around a real-world business problem and follows a structured approach:  
 **Problem → Analysis → Insights → Recommendations**
